@@ -1,0 +1,112 @@
+[
+    {
+        "productId": 10,
+        "productName": "Bracelet",
+        "productCode": "BRC-001",
+        "productCategory": "jewelry",
+        "releaseDate": "March 19, 2017",
+        "description": "Home made",
+        "price": 39.99,
+        "starRating": 4.8,
+        "imageUrl": "app/assets/images/Bracelet.png"
+    },
+    {
+        "productId": 9,
+        "productName": "Bracelet",
+        "productCode": "BRC-001",
+        "productCategory": "jewelry",
+        "releaseDate": "March 19, 2017",
+        "description": "Home made",
+        "price": 39.99,
+        "starRating": 4.8,
+        "imageUrl": "app/assets/images/Bracelet.png"
+    },
+    {
+        "productId": 8,
+        "productName": "Shop Counter",
+        "productCode": "SC-001",
+        "productCategory": "Fitting",
+        "releaseDate": "March 19, 2017",
+        "description": "L-shape shop counter with glass and lights, spacious space for servers, HI-FI and safe.",
+        "price": 499.99,
+        "starRating": 4.1,
+        "imageUrl": "app/assets/images/counter.png"
+    },
+    {
+        "productId": 7,
+        "productName": "Steel Light Post",
+        "productCode": "SLP-001",
+        "productCategory": "Fitting",
+        "releaseDate": "March 19, 2017",
+        "description": "Steel Light Post for indoor or outdoor use at home or in a shop.",
+        "price": 999.99,
+        "starRating": 4.1,
+        "imageUrl": "app/assets/images/Light_post.png"
+    },
+    {
+        "productId": 1,
+        "productName": "Laptop Memory Card",
+        "productCode": "LMEMC-001",
+        "productCategory": "IT",
+        "releaseDate": "March 19, 2017",
+        "description": "DDR2 256M ..",
+        "price": 49.99,
+        "starRating": 3.2,
+        "imageUrl": "app/assets/images/Leaf-Rake.png"
+    },
+    {
+        "productId" : 2,
+        "productName" : "Infinity Dress",
+        "productCode" : "INFD-00",
+        "productCategory": "Woman's Clothing",
+        "releaseDate" : "March 01, 2017",
+        "description" : "Various colours and different sizes",
+        "price" : 679,
+        "starRating": 4.5,
+        "imageUrl": "app/assets/images/Leaf-Rake.png"
+    },
+    {
+        "productId" : 3,
+        "productName" : "Silicon Bra",
+        "productCode" : "SILB-00",
+        "productCategory": "Woman's Clothing",
+        "releaseDate" : "March 01, 2017",
+        "description" : "Very good quality with different sizes",
+        "price" : 299,
+        "starRating": 4.5,
+        "imageUrl": "app/assets/images/Leaf-Rake.png"
+    },
+    {
+        "productId": 4,
+        "productName": "Slash",
+        "productCode": "SLA-001",
+        "productCategory": "Woman's Clothing",
+        "releaseDate": "May 15, 2016",
+        "description": "Home made, and cusomerized decoration",
+        "price": 20,
+        "starRating": 4.8,
+        "imageUrl": "app/assets/images/Leaf-Rake.png"
+    },
+    {
+        "productId": 5,
+        "productName": "Wireless keyboard & mouse device",
+        "productCode": "WKM-001",
+        "productCategory": "IT",
+        "releaseDate": "October 15, 2015",
+        "description": "Energy saving, battery driven, Wireless Keyboard and Optical Mouse device",
+        "price": 250,
+        "starRating": 5,
+        "imageUrl": "app/assets/images/KB-WLESS-HK3930-COMBO.png"
+    },
+    {
+        "productId": 6,
+        "productName": "Laptop Hard Drive 120G",
+        "productCode": "LHD-001",
+        "productCategory": "IT",
+        "releaseDate": "June 15, 2017",
+        "description": "Westwood...",
+        "price": 250,
+        "starRating": 5,
+        "imageUrl": "app/assets/images/KB-WLESS-HK3930-COMBO.png"
+    }
+]
